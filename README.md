@@ -1,7 +1,7 @@
-![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+<img align="center" alt="Developer" width="1050" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 <h1 align="center">Hi 👋, I'm Ravindu chathuranga</h1>
 <h3 align="center">I'm a software engineering undergraduate</h3>
-<img aling="center" alt="Developer" width="400" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220907174457/Cloud-Computing-vs-Web-Development.gif">
+<img align="c" alt="Developer" width="1050" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220907174457/Cloud-Computing-vs-Web-Development.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinduchathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduchathuranga" /> </p>
