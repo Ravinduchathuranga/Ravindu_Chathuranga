@@ -30,7 +30,7 @@
 
 <p><img align="left" width="950" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravinduchathuranga&show_icons=true&locale=en&layout=compact" alt="ravinduchathuranga" /></p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+
 
 <p>&nbsp;<img align="center" width="950" src="https://github-readme-stats.vercel.app/api?username=ravinduchathuranga&show_icons=true&locale=en" alt="ravinduchathuranga" /></p>
 
