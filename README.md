@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravindu chathuranga</h1>
+![image](https://github.com/Ravinduchathuranga/Ravinduchathuranga/assets/96408799/e196fdb7-c73b-48a1-a8d0-6306263bc2a5)<h1 align="center">Hi 👋, I'm Ravindu chathuranga</h1>
 <h3 align="center">I'm a software engineering undergraduate</h3>
 <img align="center" alt="Developer" width="1050" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravinduchathuranga" alt="ravinduchathuranga" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ravicdasanayaka" target="blank"><img src="https://img.shields.io/twitter/follow/ravicdasanayaka?logo=twitter&style=for-the-badge" alt="ravicdasanayaka" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ravicdasanayaka" target="blank"><img src="https://img.shields.io/twitter/follow/ravicdasanayaka?logo=twitter&style=for-the-badge" alt="rc____08" /></a> </p>
 
 - 🌱 I’m currently learning **react, angular, typescript, mongo dB**
 
