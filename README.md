@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravinduchathuranga" alt="ravinduchathuranga" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ravicdasanayaka" target="blank"><img src="https://img.shields.io/twitter/follow/ravicdasanayaka?logo=twitter&style=for-the-badge" alt="rc____08" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rc____08" target="blank"><img src="https://img.shields.io/twitter/follow/ravicdasanayaka?logo=twitter&style=for-the-badge" alt="rc____08" /></a> </p>
 
 - 🌱 I’m currently learning **react, angular, typescript, mongo dB**
 
