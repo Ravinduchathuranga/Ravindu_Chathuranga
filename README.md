@@ -1,4 +1,4 @@
-![image](https://github.com/Ravinduchathuranga/Ravinduchathuranga/assets/96408799/e196fdb7-c73b-48a1-a8d0-6306263bc2a5)<h1 align="center">Hi 👋, I'm Ravindu chathuranga</h1>
+<h1 align="center">Hi 👋, I'm Ravindu chathuranga</h1>
 <h3 align="center">I'm a software engineering undergraduate</h3>
 <img align="center" alt="Developer" width="1050" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
