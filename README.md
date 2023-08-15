@@ -2,13 +2,6 @@
 <h3 align="left">I'm a software engineering undergraduate</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinduchathuranga&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduchathuranga" /> </p>
 <p align="left"> <a href="https://twitter.com/rc____08" target="blank"><img src="https://img.shields.io/twitter/follow/ravicdasanayaka?logo=twitter&style=for-the-badge" alt="rc____08" /></a> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href="https://stackoverflow.com/users/user:20841784" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ravindu chathuranga" height="30" width="40" /></a>
-<a href="https://fb.com/ravinduchathurangadasanayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravinduchathurangadasanayaka" height="30" width="40" /></a>
-<a href="https://instagram.com/rc_99d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rc_99d" height="30" width="40" /></a>
-<a href="https://discord.gg/Rc#9844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rc#9844" height="30" width="40" /></a>
-</p>
 <img align="center" alt="Developer" width="1050" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 - 🌱 I’m currently learning **react, angular, typescript, mongo dB**
